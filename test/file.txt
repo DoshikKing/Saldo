@@ -1,2 +1,3 @@
 simple file
 true one
+fake one
