@@ -1,0 +1,18 @@
+
+#main-container{
+    width: auto;
+    height: auto;
+    background-color: rgb(101, 165, 71);
+}
+#main-background{
+    background-color: rgb(101, 165, 71);
+}
+.col-sm{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+.card{
+    background-color: rgb(130, 211, 93);
+}
